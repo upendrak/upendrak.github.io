@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Upendra Kumar Devisetty, Ph.D.  
-Senior Data Scientist, [Greenlight Biosciences](https://www.greenlightbiosciences.com/)  
+Director, Data Science and Bioinformatics, [GreenLight Biosciences](https://www.greenlightbiosciences.com/)  
 Research Triangle, Durham, NC 27709
 
-Personal: [upendrakumar.devisetty@gmail.com](upendrakumar.devisetty@gmail.com)   
+Personal: [upendrakumar.devisetty@gmail.com](mailto:upendrakumar.devisetty@gmail.com)   

@@ -9,63 +9,86 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+Data Science and Bioinformatics leader with 15+ years of experience advancing NGS, Genomics, and ML/AI solutions across Human Health and Plant Health R&D. Proven record building and scaling high-performing teams, delivering ML/NGS platforms, and driving strategy from discovery and regulatory through deployment. Published author (*Deep Learning for Genomics*), inventor on multiple RNA-based biopesticide patents and publications, and collaborative technical leader.
+
 Skills
 ======
-* **Computational/Bioinformatics** 
-  * Programming languages: Python, R, SQL, Bash
-  * Tools: Pandas, Matplotlib, Seaborn, NumPy, Keras, PySpark, Scikit-learn, Jupyter, Git, GitHub, Snakemake, Shiny, Flask, Big-Query, MySQL, Postgres, NOSQL, AWS, Azure, Ansible, Openstack, Heroku, Docker and familiarity with Kubernetes
-  * Machine Learning: Data wrangling, Feature engineering, Regression, Classication, Clustering, Decision Trees, Ensemble methods, Convolutional Neural Networks, NLP, Recommendation systems
-  * Techniques: DevOps, Hadoop, HPC, GPU, CI/CD, MongoDB and Distributed computing
-  * Next Generation Sequencing: Quality control, Transcriptome and genome sequence assembly and annotation, Mapping, Differential Gene Expression analysis, Detection of genetic variants including SNPs and Structural Polymorphisms, GO annotation and Enrichment analysis, Clustering, WGCNA, Genotyping-By-Sequencing, Bait-capture enrichment, microRNA/siRNA analysis and target prediction, QIIME and Metagenomics
+* **Programming**: Python, R, SQL, Bash, C
+* **Machine Learning & AI**: FNNs, CNNs, Natural Language Processing (NLP), Transformers, Generative AI (GenAI), model deployment and monitoring
+* **Bioinformatics / NGS**: Short- and long-read sequencing, RNA-Seq, DNA-Seq, dsRNA-Seq, lincRNA, workflow automation with Snakemake and NextFlow
+* **Cloud Computing & Tools**: AWS, Azure, Docker, PySpark, GitHub, Snowflake, HPC and GPU computing
+* **Leadership**: Team building, strategic planning, cross-functional collaboration, and technical road mapping
 
-Research experience
+Professional experience
 ======
-* 2020-Current: Senior Data Scientist  
-  Greenlight Bioscience, Durham, NC
-  * **Duties**: Establish RNA-Seq and analysis on Illumina platform to characterize mRNAs produced for vaccine and diag-
-  nostic development. Identifying high quality novel targets for RNAi of insects and fungi. Developing Machine Learning models to predict sequence-to-sequence bias and yield of dsRNA produced in in-house dsRNA production platform. Setting up Genomics and Bioinformatics infrastructure that includes storage and compute on AWS cloud for Bioinformatics analyses for
-  large-scale next generation data thereby simplifying and securely scaling the genomic analyses in the cloud for the Data Science Team
+* **2025–Present: Director of Data Science and Bioinformatics**  
+  GreenLight Biosciences, Durham, NC
+  * Guide the overall strategy for Data Science initiatives, with a primary focus on Genomics, NGS, and the application of advanced ML and AI technologies for the development of RNAi biopesticides.
+  * Manage team execution and development, define project roadmaps aligned with organizational goals, and facilitate cross-functional collaboration to deliver key initiatives.
+  * Prototype and evaluate innovative ML and Genomics technologies, leveraging new approaches to inform and influence strategy at the organizational level.
 
-* 2016-2019: Science Informatician  
+* **2023–2025: Head of Data Science**  
+  GreenLight Biosciences, Durham, NC
+  * Developed and implemented a comprehensive long-term strategy for Data Science and Bioinformatics, aligning initiatives with the organization's objectives in RNAi product development and NGS analytics.
+  * Managed a dedicated team of six professionals, ensuring successful execution of projects related to RNAi products and advanced NGS analytics.
+  * Assessed emerging technologies in Genomics, ML, and Computational Biology to identify innovative solutions that could enhance R&D capabilities.
+  * Communicated project results and technical findings to both technical teams and executive stakeholders, facilitating informed decision-making and strategic planning.
+
+* **2021–2022: Senior Manager, Data Science**  
+  GreenLight Biosciences, Durham, NC
+  * Managed a multidisciplinary team across Data Science, Bioinformatics, Software Engineering, and Business Intelligence to support project goals and drive innovation.
+  * Led the deployment of ML solutions for mRNA platforms, optimizing workflows for Illumina and PacBio sequencing technologies.
+  * Served as the Data Science representative on core product development teams, integrating advanced analytics and computational methods into product strategy.
+
+* **2021: Data Science Manager**  
+  GreenLight Biosciences, Durham, NC
+  * Built and maintained a unified Bioinformatics and Analytics infrastructure on AWS for seamless data integration, processing, and analysis.
+  * Led RNAi target discovery and mRNA design, overseeing preparation of EPA data packages for regulatory submissions and compliance.
+  * Delivered critical RNA-Seq insights that directly informed and guided product development.
+
+* **2020: Bioinformatics Data Scientist**  
+  GreenLight Biosciences, Durham, NC
+  * Built the company's RNAi bioinformatics discovery platform, enabling identification of target genes in insects and fungi.
+  * Implemented automated algorithms for designing double-stranded RNA (dsRNA) and streamlined NGS workflows.
+  * Designed and deployed scalable cloud infrastructure supporting multiple bioinformatics applications.
+
+* **2016–2019: Science Informatician**  
   CyVerse, University of Arizona, AZ
-  * **Duties**: Scientifically interact with biologists, bioinformaticians, programming teams and other members of CyVerse team as well as coordinate development across projects, and facilitate integration and cross-communication. Translate community input into proof-of-concept prototypes, formal software requirements, and participate in the design of implementation of Next Generation systems
-  * **Achievements**: Optimized the process of building Bioinformatics and Data Science software into CyVerse using Docker. Developed custom Bioinformatics and computational workflows (MAKER) in the Jetstream cloud for processing complex biological data in a distributed processing environment using Work-queue and Pegasus.Developed novel Bioinformatic pipelines (Eg. RMTA) for mining 100+ TB of publicly available RNA-seq data. 
+  * Integrated the Work-Queue MAKER genome annotation pipeline into the Jetstream cloud for scalable, efficient genome annotation.
+  * Streamlined deployment of bioinformatics tools and workflows in the CyVerse Discovery Environment using Bioconda and Biocontainers.
+  * Constructed an evolutionary analysis pipeline for Long-intergenic Non-Coding RNA (lincRNA) using RNA-Seq data.
+  * Expanded the CyVerse suite of bioinformatics tools by adding over 150 new applications.
   * **Supervisor**: Dr. Eric Lyons
 
-* 2019-2020: Technical Consultant  
-  Insight Data Science, Seattle, WA
-  * **Achievements**: Developed and delivered workshops such as Introduction to AWS for Data Scientists, Big Data processing platforms (Hadoop and Spark), Flask web development, ML model deployment using Heroku to Data Engineering fellows.
+* **Earlier roles**
+  * 2019–2020: Data Science Fellow / Technical Consultant — Insight Data Science
+  * 2018–2019: Research Associate, Co-PI — University of Arizona
+  * 2015–2016: Research Associate — Oregon State University
+  * 2010–2015: Postdoctoral Fellow — University of California, Davis
+  * 2006–2009: Research Technician — University of Nottingham, UK
 
-* 2019: Data Science Fellow  
-  Insight Data Science, Seattle, WA
-  * **Achievements**: Built [PlantMD](https://github.com/upendrak/plantmd), an image-based plant disease detection web app that can rapidly and accurately diagnose plant diseases with **99% validation accuracy** and achieving an ROC-AUC score of 0.92. Trained and validated Alexnet and VGG16 CNN architectures. Used (100K, 500GB) diseased and healthy plant leaf images using using Keras on Google Collabs GPU nodes. Used Docker, Github and Dockerhub to automatically manage building and deploying PlantMD on AWS.
+Selected patents
+======
+* RNA-based control of powdery mildew, US 12,077,763 (2024)
+* RNA-based control of lepidopteran pests, US App. 17/925,204 (2023)
+* RNA-based control of botrytis, US App. 17/815,196 (2023)
 
-* 2019-Current: Data Science Instructor  
-  Datacamp
-  * **Achievements**: Designed and developed course content for **Big Data Fundamentals with PySpark** using **Apache PySpark** and its components (RDD, DataFrames, SparkSQL and MLlib). The course has over 20000 students todate.
+Full patents can be found at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=12fLkPsAAAAJ).
 
-* 2015-2016: Post Doctoral Research Associate  
-  Department of Forest Ecosystems and Society, Oregon State University, OR
-  * **Duties**: Developing cheap and high-throughput DNA extraction and DNA library construction protocols for Populus and Implementing TASSEL GBS pipeline for Populus
-  * **Achievements**: Developed cheap and high-throughput DNA extraction and DNA library construction protocols for structural polymorphism discovery in Populus, implemented TASSEL GBS pipeline for Populus, constructed GBS libraries and analysed GBS data for understanding Aspen phylogeography
-  * **Supervisor**: Dr. Steve Strauss
-  
-* 2010-2015: Post Doctoral Researcher  
-  Department of Plant Biology, University of California Davis, CA  
-  * **Duties**: Carrying out Quality control, primary analysis and interpretation of RNA-Seq data, detecting molecular genetic markers and constructing the novel comprehensive transcriptome assembly pipeline using deep RNA-Seq data and developing pipelines and novel tools for assembly validation and assemblers comparison of *Brassica rapa*.
-  * **Achievements**: Detected molecular genetic markers and constructed the novel comprehensive transcriptome assembly pipeline using deep RNA-Seq data of *Brassica rapa*, developed pipelines and novel tools for assembly validation and assemblers comparison of *Brassica rapa*, optimized the high-throughput RNA-Seq protocol for making ~1000 and ~2000 libraries from mapping populations of Brassica rapa and Arabidopsis thaliana respectively, determined the genotype of mapping population of *Brassica rapa* using RNA-Seq data and constructed first ever genetic map using coding genetic markers, conducted RNA-Seq expression analysis on Phytochrome mutants of *Brassica rapa*, conducted research to uncover novel differentially expressed genes and pathways associated with shade avoidance response in *Brassica rapa*, provided bioinformatics research support to other projects in the lab including Arabidopsis RNA-Seq, Tomato RNA-Seq, Bacterial genome assembly and annotation.
-  * **Supervisor**: Dr. Julin Maloof
+Selected publications
+======
+* Smeele, Z. E., ... Devisetty, U. K., ... & Lester, P. J. (2026). An RNA interference biopesticide reduces reproduction of the honey bee parasite *Varroa destructor* by down-regulating embryo development pathways. *Pest Management Science*, 82(3), 2694–2707. [doi:10.1002/ps.70406](https://doi.org/10.1002/ps.70406)
+* De Neef, E., Velásquez-Zapata, V., ... Devisetty, U. K., & Sridharan, K. (2025). A bioinformatic ecological risk assessment framework for externally applied double-stranded RNA-based biopesticides. *Integrated Environmental Assessment and Management (IEAM)*.
+* Devisetty, U. K., De Neef, E., Gordon, E. R., Velásquez-Zapata, V., Narva, K., Mézin, L., Cahon, P. M., Witwer, K. W., & Sridharan, K. (2025). A bioinformatics framework for human health risk assessment of externally applied dsRNA-based biopesticides. *Computational Toxicology*, 33.
 
-* 2005-2009: Ph.D  
-  Plant and Crop sciences Division, University of Nottingham, Nottingham, UK
-  - Investigated the meiotic recombination in wheat using molecular biology, molecular genetics and field-based crop analysis.
-  - Cloned RAD51 & DMC1 meiotic homoeologous genes of wheat and investigated their role in meiotic recombination pathway in Arabidopsis using variety of functional genomic approaches
-  * **Supervisor** Dr. Sean Mayes
+Full publications can be found at my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=12fLkPsAAAAJ).
 
 Education
 ======
-* B.Sc (Ag), A.N.G.R.A.U (India), 1996-2000
-* M.Sc (Ag), G.B.P.U.A.T (India), 2001-2003
-* Ph.D (Ag), University of Nottingham (U.K), 2005-2010
+* Ph.D., Agriculture (Crop Genetics), University of Nottingham, UK, 2005–2009
+* M.Sc., Molecular Biology & Biotechnology, G.B.P.U.A.T, India, 2001–2003
+* B.Sc., Agriculture, A.N.G.R.A.U, India, 1996–2000
 
-My full-length C.V can be found [here](http://upendrak.github.io/files/UpendraDevisetty_CV.pdf)
+My full-length C.V can be found [here](http://upendrak.github.io/files/UpendraDevisetty_CV.pdf).
